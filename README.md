@@ -7,8 +7,8 @@ not very useful for anything but initial learning.
 
 ## Author
 
-Copyright &copy; 2023 [Mikołaj Bartnicki][98]
-Distributed under the terms of [MIT License][99]
+Copyright &copy; 2023 [Mikołaj Bartnicki][98]<br>
+Distributed under the terms of [MIT License][99].
 
 [00]: https://javascript.info
 [98]: mailto://mikolaj@bartnicki.org
