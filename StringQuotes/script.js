@@ -1,3 +1,5 @@
+// What is the output of the script?
+
 "use strict";
 
 let name = "Ilya";
